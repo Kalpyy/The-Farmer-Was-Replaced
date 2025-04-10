@@ -2,18 +2,14 @@ A simple unoptimized version of my recursive A* algorithm, the original algorith
 
 Some benchmarks: 
 
-First 50 mazes avg: 15.61
-
-50 - 100 mazes avg: 8.14
-
-100 - 150 mazes avg: 6.82
-
-150 - 200 mazes avg: 6.21
-
-200 - 250 mazes avg: 5.84
-
-250 - 300 mazes avg: 5.68
-
+| iterations       |  time      |
+| ---------------- | ---------- |
+| 0-50             | 15.61s     |
+| 50-100           | 8.14s      |
+| 100-150          | 6.82s      |
+| 150-200          | 6.21s      |
+| 200-250          | 5.84s      |
+| 250-300          | 5.68s      |
 
 Overall Avg: 48.32
 
